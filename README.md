@@ -1,12 +1,13 @@
 # What is this repository?
-{NG}
+This repository includes the four cases adressed in Smart Sustainability Simulation Game, a cross-university lecture held at the University of Hohenheim, the University of Bayreuth and the Augsburg University of Applied Sciences. 
+Each case is represented by one folder and consists of two weeks. In the folders, you will find Worksheets for each week that explain your task for the week. Additionally, the data and code files help you find a solution to the task. 
+
+The cases are not connected to each other and each case addresses a different problem that can be solved using Machine Learning. Therefore you don't have to solve the cases in any particular order.
 
 # What can I use it for?
-{NG}
-
+Use it for teaching knowledge on different use cases of Machine Learning in production.
 # What do I need in order to use it?
-{NG}
-
+As a teacher, you should be able to assess the quality of your students' submissions. If you need any sample solutions or support doing so, feel free to contact the author of this repository.
 # Copyright / License
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY-NC-SA 4.0).
 
@@ -41,4 +42,5 @@ via https://github.com/AI-for-Business/SmartSustainabilitySimulationGame_S3G*
 * You can contact the authors by sending us an [email](mailto:abba-services@fim-rc.de).
 
 # Author's Note
-{NG}
+This repository is a great source for data without a sample solution. Try it out, use the data to create your own tasks or integrate students into the brainstorming process.
+However you will use it: Enjoy learning and have fun!
