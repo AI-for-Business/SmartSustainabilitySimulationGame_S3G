@@ -34,6 +34,7 @@ Cite as:\
 via https://github.com/AI-for-Business/SmartSustainabilitySimulationGame_S3G*
 
 # DOI - Code
+[![DOI](https://zenodo.org/badge/685002672.svg)](https://zenodo.org/doi/10.5281/zenodo.10600029)
 
 # Contact / About us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
